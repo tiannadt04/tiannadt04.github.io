@@ -1,0 +1,1 @@
+You are required to build a Portfolio website about yourself. Your website will provide a detailed description of you based on your current status, likes, dislikes, education history, hobbies etc.. Your website will make use of images (and possibly video and audio files) as much as is possible to bring your special unique theme across to your website viewers. 
